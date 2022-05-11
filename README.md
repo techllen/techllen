@@ -18,6 +18,19 @@
 <p align="center" >Full Stack Software Developer.</p>
 <br />
 <!-- Intro End-->
+  
+<!-- About Me begin-->
+<h2 align="center">About me</h2>
+<br />
+<p align="center">
+- 🔭 I am currently working on PYTHON and JAVA projects<br />
+- 🌱 I’m currently learning PYTHON<br />
+- 👯 I’m looking to collaborate with others in Open Source projects  <br />
+<!-- 🤔 I’m looking for help to get into Open Source projects <br />-->
+- 🥅 2022 Goals: Contribute to Open Source projects <br />
+- ⚡ Fun fact: In am a tinkerer who can fix prettymuch anything electromechanical 😉 and a cosmology nerdy as well 
+</p>
+<!-- About Me end-->
 
 <!-- Projects begin-->
 <h2 align="center">My projects 💻</h2>
@@ -47,30 +60,19 @@
   
 <!-- Projects end-->
   
-<!-- About Me begin-->
-<h2 align="center">About me</h2>
-<br />
-<p align="center">
-- 🔭 I am currently working on Home Analyst Project ,a Java full stack project<br />
-- 🌱 I’m currently learning Spring Framework,React and JavaScript<br />
-- 👯 I’m looking to collaborate with others in Open Source projects  <br />
-<!-- 🤔 I’m looking for help to get into Open Source projects <br />
-- 🥅 2022 Goals: Contribute to Open Source projects <br />-->
-- ⚡ Fun fact: In am a good mechanic who can fix prettymuch anything electromechanical 😉
-</p>
-  
 <!--Languages and tools begin-->
 <h3 align="center"> Languages and Tools</h3>
 <br />
 <p align="center">
+  <img alt="PYTHON" width="52px" src="https://www.python.org/static/community_logos/python-powered-h-140x182.png"/>
   <img alt="JAVA" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"/>
   <img alt="HTML5" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
   <img alt="CSS3" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
   <img alt="JAVASCRIPT" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
-  <img alt="SPRING" width="52px" height="52px" src="https://avatars.githubusercontent.com/u/1134463?v=4"/>
-  <img alt="REACT" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
-  <img alt="HIBERNATE" width="52px" height="52px"src="https://hibernate.org/images/hibernate-logo.svg"/>
-   <img alt="BOOTSTRAP" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"/>
+<!--   <img alt="SPRING" width="52px" height="52px" src="https://avatars.githubusercontent.com/u/1134463?v=4"/> -->
+<!--   <img alt="REACT" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/> -->
+<!--   <img alt="HIBERNATE" width="52px" height="52px"src="https://hibernate.org/images/hibernate-logo.svg"/> -->
+  <img alt="BOOTSTRAP" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"/>
   <img alt="MYSQL" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"/>
   <img alt="ECLIPSE" width="52px" height="32px" src="https://www.eclipse.org/org/artwork/images/eclipse_ide_logo.png"/>
   <img alt="VS CODE" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
@@ -90,7 +92,6 @@
 <br />
 <br />
 <!--languages and tools end-->
-<!-- About Me end-->
 
 <!-- My Stats begin-->
 ---
