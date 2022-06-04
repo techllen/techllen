@@ -28,7 +28,8 @@
 - 👯 I’m looking to collaborate with others in Open Source projects  <br />
 <!-- 🤔 I’m looking for help to get into Open Source projects <br />-->
 - 🥅 2022 Goals: Contribute to Open Source projects <br />
-- ⚡ Fun fact: In am a tinkerer who can fix prettymuch anything electromechanical 😉 and a cosmology nerdy as well 
+- ⚡ Fun fact: In am a tinkerer who can fix prettymuch anything electromechanical 😉 
+  <!-- and a cosmology nerdy as well --> 
 </p>
 <!-- About Me end-->
 
