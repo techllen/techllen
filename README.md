@@ -38,6 +38,10 @@
 <br />
 
 <p align="center">
+   <a href="https://github.com/techllen/tv_shows_b"><img width="600" src="https://github.com/techllen/tv_shows_b/blob/main/screenshots/edit_show_page.png" /> <br /></a>
+  <a href="https://github.com/techllen/tv_shows_b"><img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=techllen&repo=tv_shows_b&theme=algolia" /></a>
+  <br />
+  <br />
   <a href="https://github.com/techllen/agenda-App"><img width="600" src="https://github.com/techllen/techllen/blob/main/agendaappimg.png" /> <br /></a>
   <a href="https://github.com/techllen/agenda-App"><img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=techllen&repo=agenda-App&theme=algolia" /></a>
   <br />
