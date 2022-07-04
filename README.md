@@ -50,7 +50,7 @@
   <a href="https://github.com/techllen/agenda-App"><img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=techllen&repo=agenda-App&theme=algolia" /></a>
   <br />
   <br />
-  <a href="https://github.com/techllen/SILU"><img width="600" src="https://github.com/techllen/techllen/blob/main/siluwebsiteimg.png" /></a> <br />
+  <a href="https://techllen.github.io/SILU/"><img width="600" src="https://github.com/techllen/techllen/blob/main/siluwebsiteimg.png" /></a> <br />
   <a href="https://github.com/techllen/SILU"><img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=techllen&repo=SILU&theme=algolia" /></a>
   <br />
   <br />
