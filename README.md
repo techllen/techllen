@@ -34,10 +34,14 @@
 <!-- About Me end-->
 
 <!-- Projects begin-->
-<h2 align="center">My projects 💻</h2>
+<h2 align="center">My projects 💻</h2>   https://github.com/techllen/expenses-analyst
 <br />
 
 <p align="center">
+   <a href="https://github.com/techllen/expenses-analyst"><img width="600" src="https://github.com/techllen/expenses-analyst/blob/main/screenshots/home_page_2.png" /> <br /></a>
+  <a href="https://github.com/techllen/expenses-analyst"><img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=techllen&repo=tv_shows_b&theme=algolia" /></a>
+  <br />
+  <br />
    <a href="https://github.com/techllen/tv_shows_b"><img width="600" src="https://github.com/techllen/tv_shows_b/blob/main/screenshots/edit_show_page.png" /> <br /></a>
   <a href="https://github.com/techllen/tv_shows_b"><img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=techllen&repo=tv_shows_b&theme=algolia" /></a>
   <br />
