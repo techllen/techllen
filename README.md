@@ -24,7 +24,7 @@
 <br />
 <p align="center">
 - 🔭 I am currently working on PYTHON and JAVA projects<br />
-- 🌱 I’m currently learning PYTHON<br />
+<!-- - 🌱 I’m currently learning PYTHON<br /> -->
 - 👯 I’m looking to collaborate with others in Open Source projects  <br />
 <!-- 🤔 I’m looking for help to get into Open Source projects <br />-->
 - 🥅 2022 Goals: Contribute to Open Source projects <br />
