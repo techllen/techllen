@@ -23,7 +23,7 @@
 <h2 align="center">About me</h2>
 <br />
 <p align="center">
-- 🔭 I am currently working on PYTHON, JAVA projects and a little bit of C# 😉<br />
+- 🔭 I am currently working on PYTHON and JAVA projects plus a little bit of C# 😉<br />
 <!-- - 🌱 I’m currently learning PYTHON<br /> -->
 - 👯 I’m looking to collaborate with others in Open Source projects  <br />
 <!-- 🤔 I’m looking for help to get into Open Source projects <br />-->
