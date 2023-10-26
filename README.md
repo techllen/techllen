@@ -15,7 +15,7 @@
 <!-- Social End-->
 
 <!-- Intro begin-->
-<p align="center" >Full Stack Software Developer.</p>
+<p align="center" >Full Stack Software Engineer.</p>
 <br />
 <!-- Intro End-->
   
@@ -105,10 +105,10 @@
 
 <!-- My Stats begin-->
 ---
-<p align="center">
+<!--<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techllen&layout=compact&theme=algolia" width="400" height="300"/>
 <img src="https://github-readme-stats.vercel.app/api?username=techllen&theme=algolia&show_icons=True" width="400" />
-</p>
+</p>-->
 <!-- My Stats ends-->
 
 <!-- Profile End-->
