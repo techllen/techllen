@@ -49,10 +49,10 @@
   <a href="https://github.com/techllen/agenda-App"><img width="600" src="https://github.com/techllen/techllen/blob/main/agendaappimg.png" /> <br /></a>
   <a href="https://github.com/techllen/agenda-App"><img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=techllen&repo=agenda-App&theme=algolia" /></a>
   <br /> -->
-  <br />
+  <!--<br />
   <a href="https://techllen.github.io/SILU/"><img width="600" src="https://github.com/techllen/techllen/blob/main/siluwebsiteimg.png" /></a> <br />
   <a href="https://github.com/techllen/SILU"><img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=techllen&repo=SILU&theme=algolia" /></a>
-  <br />
+  <br />-->
 <!--   <br />
   <a href="https://github.com/techllen/car-dealership-pt1-console"><img width="600" src="https://github.com/techllen/techllen/blob/main/agendaappconsoleimg.png" /></a><br />
   <a href="https://github.com/techllen/car-dealership-pt1-console"><img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=techllen&repo=car-dealership-pt1-console&theme=algolia" /></a>
