@@ -23,11 +23,11 @@
 <h2 align="center">About me</h2>
 <br />
 <p align="center">
-- 🔭 I am currently working on PYTHON and JAVA projects plus a little bit of C# 😉<br />
+<!-- - 🔭 I am currently working on PYTHON and JAVA projects plus a little bit of C# 😉<br /> -->
 <!-- - 🌱 I’m currently learning PYTHON<br /> -->
 - 👯 I’m looking to collaborate with others in Open Source projects  <br />
 <!-- 🤔 I’m looking for help to get into Open Source projects <br />-->
-- 🥅 2022 Goals: Contribute to Open Source projects <br />
+<!-- - 🥅 2022 Goals: Contribute to Open Source projects <br /> -->
 - ⚡ Fun fact: In am a tinkerer who can fix prettymuch anything electromechanical 😉 
   <!-- and a cosmology nerdy as well --> 
 </p>
@@ -38,7 +38,7 @@
 <br />
 
 <p align="center">
-   <a href="https://github.com/techllen/expenses-analyst"><img width="600" src="https://github.com/techllen/expenses-analyst/blob/main/screenshots/home_page_2.png" /> <br /></a>
+<!--    <a href="https://github.com/techllen/expenses-analyst"><img width="600" src="https://github.com/techllen/expenses-analyst/blob/main/screenshots/home_page_2.png" /> <br /></a>
   <a href="https://github.com/techllen/expenses-analyst"><img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=techllen&repo=expenses-analyst&theme=algolia" /></a>
   <br />
   <br />
@@ -48,24 +48,25 @@
   <br />
   <a href="https://github.com/techllen/agenda-App"><img width="600" src="https://github.com/techllen/techllen/blob/main/agendaappimg.png" /> <br /></a>
   <a href="https://github.com/techllen/agenda-App"><img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=techllen&repo=agenda-App&theme=algolia" /></a>
-  <br />
+  <br /> -->
   <br />
   <a href="https://techllen.github.io/SILU/"><img width="600" src="https://github.com/techllen/techllen/blob/main/siluwebsiteimg.png" /></a> <br />
   <a href="https://github.com/techllen/SILU"><img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=techllen&repo=SILU&theme=algolia" /></a>
   <br />
-  <br />
+<!--   <br />
   <a href="https://github.com/techllen/car-dealership-pt1-console"><img width="600" src="https://github.com/techllen/techllen/blob/main/agendaappconsoleimg.png" /></a><br />
   <a href="https://github.com/techllen/car-dealership-pt1-console"><img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=techllen&repo=car-dealership-pt1-console&theme=algolia" /></a>
 
-  <br />
+  <!--<br />
   <a href="https://github.com/techllen/simon-game"><img width="600" src="https://github.com/techllen/simon-game/blob/main/ScreenShots/Home.png" /></a> <br />
   <a href="https://github.com/techllen/simon-game"><img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=techllen&repo=simon-game&theme=algolia" /></a>
   <br />
-<br /><br />
+<br />
+<br />
   <a href="https://github.com/techllen/keeper-app"><img width="600" src="https://github.com/techllen/keeper-app/blob/main/ScreenShots/Adding%20Task.png" /></a> <br />
   <a href="https://github.com/techllen/keeper-app"><img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=techllen&repo=keeper-app&theme=algolia" /></a>
   <br />
-  </p>
+  </p>-->
   
 <!-- Projects end-->
   
