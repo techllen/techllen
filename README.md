@@ -25,7 +25,7 @@
 <p align="center">
 <!-- - 🔭 I am currently working on PYTHON and JAVA projects plus a little bit of C# 😉<br /> -->
 <!-- - 🌱 I’m currently learning PYTHON<br /> -->
-- 👯 I’m looking to collaborate with others in Open Source projects  <br />
+- 👯 I’m looking forward to learn and collaborate with others in anything engineering related  <br />
 <!-- 🤔 I’m looking for help to get into Open Source projects <br />-->
 <!-- - 🥅 2022 Goals: Contribute to Open Source projects <br /> -->
 - ⚡ Fun fact: In am a tinkerer who can fix prettymuch anything electromechanical 😉 
