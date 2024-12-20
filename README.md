@@ -15,7 +15,9 @@
 <!-- Social End-->
 
 <!-- Intro begin-->
-<p align="center" >Full Stack Software Engineer.</p>
+<!--<p align="center" >Full Stack Software Engineer.</p>-->
+<p align="center" >Software Engineer.</p>
+
 <br />
 <!-- Intro End-->
   
