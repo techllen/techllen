@@ -72,6 +72,6 @@
 ### 🧠 Fun Fact
 
 > I’m a **tinkerer** who can fix almost anything electromechanical 😉  
-> From soldering circuits to debugging software – I love building things that work.
+> From soldering circuits to debugging software – I love building amazing things that work.
 
 ---
