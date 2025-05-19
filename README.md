@@ -17,10 +17,6 @@
   <a href="https://linkedin.com/in/techllen" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" />
   </a>
-  <a href="mailto:your-email@example.com">
-    <img alt="Email" src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <!-- Add other social links if any -->
 </p>
 
 ---
