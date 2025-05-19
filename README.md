@@ -64,9 +64,9 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
+<!--<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=techllen&show_icons=true&theme=radical" alt="Allen's GitHub stats" />
-</p>
+</p>-->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=techllen&theme=radical" alt="Allen's GitHub streak" />
