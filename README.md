@@ -3,14 +3,14 @@
 
 - 🌱 I’m currently learning **AI/ML**
 
-- 👨‍💻 All of my projects are available at [https://github.com/techllen?tab=repositories](https://github.com/techllen?tab=repositories)
+- 👨‍💻 All of my projects are available at [My Github](https://github.com/techllen?tab=repositories)
 
 - 📝 I regularly write articles on [Medium](Medium)
 
 - ⚡ Fun fact **I am a tinkerer who can fix prettymuch anything electromechanical 😉**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/techllen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="techllen" height="30" width="40" /></a>
 </p>
 
