@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Allen M.</h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="left">Software Engineer</h3>
 
 - 🌱 I’m currently learning **AI/ML**
 
@@ -9,8 +9,8 @@
 
 - ⚡ Fun fact **I am a tinkerer who can fix prettymuch anything electromechanical 😉**
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 <a href="https://linkedin.com/in/techllen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="techllen" height="30" width="40" /></a>
 </p>
 
