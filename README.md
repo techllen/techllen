@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [Medium](Medium)
 
-- ⚡ Fun fact **In am a tinkerer who can fix prettymuch anything electromechanical 😉**
+- ⚡ Fun fact **I am a tinkerer who can fix prettymuch anything electromechanical 😉**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
