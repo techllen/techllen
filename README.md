@@ -7,7 +7,7 @@
 
 - 🌱 Currently diving deep into **AI/ML**
 - 📂 Check out all my projects on [GitHub Repositories](https://github.com/techllen?tab=repositories)
-- ✍️ I occasionally write on [Medium]((https://medium.com/@allenmwita21))
+- ✍️ I occasionally write on [Medium](https://medium.com/@allenmwita21)
 
 ---
 
