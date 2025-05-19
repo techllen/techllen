@@ -6,9 +6,8 @@
 ### 🚀 About Me
 
 - 🌱 Currently diving deep into **AI/ML**
-- 🛠️ I love building, tinkering, and fixing **electromechanical** stuff!
 - 📂 Check out all my projects on [GitHub Repositories](https://github.com/techllen?tab=repositories)
-- ✍️ I occasionally write on [Medium](https://medium.com/@techllen)
+- ✍️ I occasionally write on [Medium]((https://medium.com/@allenmwita21))
 
 ---
 
