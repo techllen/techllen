@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **AI/ML**
 
-- 👨‍💻 All of my projects are available at [My Github](https://github.com/techllen?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/techllen?tab=repositories](https://github.com/techllen?tab=repositories)
 
 - 📝 I regularly write articles on [Medium](Medium)
 
